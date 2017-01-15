@@ -1,0 +1,9 @@
+{
+    "operation": "read",
+    "tableName": "projects",
+    "payload": {
+        "Key": {
+          "projectId": "123"
+        }
+    }
+}
